@@ -11,7 +11,6 @@ Confirms are used to see what special char is needed for the password.
 length is prompted after the confirms to ask the user how long the password needs to be from 8-128 characters.
 ------------------------------
 # For potential debugging
-------------------------------
 * console.log is added for the confirms as well as the charset;
 * These are in the inspect chrome dev tools, under console;
 * For the confirms it will show True or False;

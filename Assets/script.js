@@ -12,14 +12,11 @@ function generatePassword() {
   console.log(specialNr);
   console.log(specialCp);
 // Length of password 8-128
-  var lengthEl = prompt("How Long of a password? 8-128");
-  console.log(lengthEl);
-  var length = parseInt(lengthEl, 10);
-  console.log(length);
+  var length = prompt("How Long of a password? 8-128");
+  length = parseInt(length, 10);
   if (length < 8 || length > 128) {
     length = prompt("Please pick a number between 8 and 128");
   }
-
 // Special charsets to be added if prompts were selected
   var special1 = "!#$%&'()*+";
   var special2 = "0123456789";

@@ -17,4 +17,4 @@ length is prompted after the confirms to ask the user how long the password need
 * For the charset it will show the characters used in the password;
 All will be in the console
 ------------------------------
-# //SCREENSHOTS//
+# //SCREENSHOTS ARE IN ASSETS/IMAGES//

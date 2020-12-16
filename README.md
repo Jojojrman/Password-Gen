@@ -14,4 +14,7 @@ length is prompted after the confirms to ask the user how long the password need
 * console.log is added for the confirms as well as the charset;
 * These are in the inspect chrome dev tools, under console;
 * For the confirms it will show True or False;
-* For the 
+* For the charset it will show the characters used in the password;
+All will be in the console
+------------------------------
+# //SCREENSHOTS//
